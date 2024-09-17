@@ -16,14 +16,14 @@
 
 ## Репозиторії
 
-#### 1. Вивчення Git
+#### 1. Вивчення Git — **Готово до перевірки**
 
 https://github.com/eugenereport/git-learning
 
-#### 2. Ознайомлення з Docker
+#### 2. Ознайомлення з Docker — **Готово до перевірки**
 
 https://github.com/eugenereport/docker-learning
 
-#### 3. Розробка додатку для візуалізації вимірювань радару
+#### 3. Розробка додатку для візуалізації вимірювань радару — **Готово до перевірки**
 
 https://github.com/eugenereport/radar-processing
