@@ -16,6 +16,10 @@
 
 ## Репозиторії
 
+#### 0. Реалізація перетворень між системами координат — **Готово до перевірки**
+
+https://github.com/eugenereport/coordinate-translation
+
 #### 1. Вивчення Git — **Готово до перевірки**
 
 https://github.com/eugenereport/git-learning
