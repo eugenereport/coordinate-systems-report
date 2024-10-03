@@ -35,3 +35,7 @@ https://github.com/eugenereport/radar-processing
 #### 4. Розробка додатку для візуалізації вимірювань GPS — **Готово до перевірки**
 
 https://github.com/eugenereport/GPS-processing
+
+#### 5. Розробка додатку для візуалізації вимірювань LORAN — **Готово до перевірки**
+
+https://github.com/eugenereport/LORAN-processing
